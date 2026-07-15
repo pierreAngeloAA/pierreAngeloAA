@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏻 Hi, I'm Pierre Angelo Algarín Vigna
+# 👋🏻 Hi, I'm Pierre Angelo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Ruby+on+Rails+Specialist+%F0%9F%9A%80;Backend+Developer+%7C+PostgreSQL+%26+MySQL+%E2%9A%99%EF%B8%8F;Angular+%7C+React+%7C+Vite+%7C+TypeScript+%F0%9F%92%BB;AWS+S3+%26+CloudFront+%7C+Cloud+Integrations+%F0%9F%93%A6;Always+Learning+and+Building+%F0%9F%93%9A)](https://github.com/pierreAngeloAA)
 
@@ -24,7 +24,7 @@ Backend Developer con experiencia construyendo y manteniendo aplicaciones web co
 - **Bases de datos:** PostgreSQL, MySQL
 - **Cloud:** AWS (S3, CloudFront)
 - **Herramientas:** Git, GitHub, Docker (básico), Jira, Slack, Postman
-- **IA aplicada al desarrollo:** ChatGPT, Claude
+- **IA aplicada al desarrollo**
 
 ---
 
