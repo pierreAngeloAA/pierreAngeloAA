@@ -48,4 +48,8 @@ Backend Developer con experiencia construyendo y manteniendo aplicaciones web co
   <img alt="Pacman contribution graph" src="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/pacman-contribution-graph.svg" />
 </picture>
 
+<picture>
+  <img alt="Galaga contribution graph" src="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/galaga.svg" />
+</picture>
+
 </div>

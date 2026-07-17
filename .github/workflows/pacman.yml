@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Contribution Graphs
 
 on:
   schedule:
@@ -31,7 +31,13 @@ jobs:
         env:
           NODE_OPTIONS: "--max_old_space_size=6144"
 
-      - name: Publish Pacman Graph
+      # Pinned to an audited commit (third-party action, receives GITHUB_TOKEN)
+      - name: Generate Galaga Contribution Graph
+        uses: Manikeshmk/galaga-contribution-graph@00bb7d7d92223f81d0705f1c5acf78acd86c96c4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Graphs
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
