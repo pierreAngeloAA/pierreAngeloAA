@@ -49,7 +49,7 @@ Backend Developer con experiencia construyendo y manteniendo aplicaciones web co
 </picture>
 
 <picture>
-  <img alt="Galaga contribution graph" src="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/galaga.svg" />
+  <img alt="Galaga contribution graph" width="1166" src="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/galaga.svg" />
 </picture>
 
 </div>
