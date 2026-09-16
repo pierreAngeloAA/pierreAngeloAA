@@ -2,7 +2,7 @@
 
 # 👋🏻 Hi, I'm Pierre Angelo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Ruby+on+Rails+Specialist+%F0%9F%9A%80;Backend+Developer+%7C+PostgreSQL+%26+MySQL+%E2%9A%99%EF%B8%8F;Angular+%7C+React+%7C+Vue+%7C+TypeScript+%F0%9F%92%BB;Testing+%26+CI%2FCD+%7C+RSpec+%7C+Vitest+%7C+GitHub+Actions+%E2%9C%85;Docker+%7C+AWS+%7C+Render+%7C+Deploys+%F0%9F%93%A6;Always+Learning+and+Building+%F0%9F%93%9A)](https://github.com/pierreAngeloAA)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Fullstack+Developer+%F0%9F%9A%80;L%C3%ADder+T%C3%A9cnico+y+Funcional+%7C+Sistema+de+Fotodetecci%C3%B3n+%F0%9F%9B%A0%EF%B8%8F;Ruby+on+Rails+%7C+PostgreSQL+%7C+Sidekiq+%E2%9A%99%EF%B8%8F;Angular+%7C+React+%7C+Vue+%7C+TypeScript+%F0%9F%92%BB;Testing+%26+CI%2FCD+%7C+RSpec+%7C+Vitest+%7C+GitHub+Actions+%E2%9C%85;Docker+%7C+AWS+%7C+Render+%7C+Always+Building+%F0%9F%93%A6)](https://github.com/pierreAngeloAA)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pierreAngeloAA&color=00FF41&style=flat-square&label=Profile+Views)](https://github.com/pierreAngeloAA)
 &nbsp;
@@ -12,7 +12,9 @@
 
 ---
 
-Backend Developer con experiencia construyendo y manteniendo aplicaciones web con **Ruby on Rails** (mi especialidad) y frameworks modernos de JavaScript. Enfocado en integraciones de API, autenticación, modelado de datos y arquitectura backend — con pruebas automatizadas y CI en todos mis proyectos, y colaborando de la mano con frontends en Angular, React y Vue.
+**Fullstack Developer** con base sólida en **Ruby on Rails**, hoy **líder técnico y funcional** de un sistema de fotodetección de tránsito: defino la arquitectura, tomo las decisiones técnicas y traduzco los requerimientos del negocio en funcionalidad que se puede construir.
+
+Trabajo de punta a punta — API, integraciones con entidades y proveedores externos, procesamiento en segundo plano y frontend en **Angular** — con pruebas automatizadas y CI en todos mis proyectos.
 
 ---
 
@@ -20,8 +22,9 @@ Backend Developer con experiencia construyendo y manteniendo aplicaciones web co
 
 | | |
 |---|---|
-| **Backend** | Ruby, Ruby on Rails 8 (API-only y full stack), Service Objects, Devise + JWT |
-| **Frontend** | Angular 20, React 19, Vue 3 + Pinia, Vite, TypeScript, RxJS |
+| **Backend** | Ruby, Ruby on Rails (API-only y full stack), Service Objects, Devise + JWT, Sorcery |
+| **Procesamiento** | Sidekiq + Redis (jobs en segundo plano), máquinas de estado con AASM, exportes y generación de PDFs |
+| **Frontend** | Angular 20 + Angular Material, React 19, Vue 3 + Pinia, Vite, TypeScript, RxJS |
 | **Estilos** | Tailwind CSS, Bootstrap, MaterializeCSS |
 | **Bases de datos** | PostgreSQL (PL/pgSQL, índices, migraciones), MySQL |
 | **Testing** | RSpec, FactoryBot, SimpleCov, WebMock/VCR, Vitest, Jasmine + Karma |
@@ -38,6 +41,7 @@ Backend Developer con experiencia construyendo y manteniendo aplicaciones web co
 - **Flujo de ramas:** `staging` → PR → `main`, con `main` protegida y siempre en estado presentable.
 - **Seguridad de base:** Brakeman y `bundle-audit` en cada corrida; secretos fuera del repo.
 - **Documentación real:** cada repo con README que explica decisiones de arquitectura, no solo cómo instalarlo.
+- **Puente entre negocio y código:** levanto el requerimiento funcional, lo aterrizo en un diseño técnico y acompaño la implementación hasta producción.
 
 ---
 
@@ -45,6 +49,7 @@ Backend Developer con experiencia construyendo y manteniendo aplicaciones web co
 
 - Modelado de dominio en Rails (STI, agregados) y consultas eficientes en PostgreSQL
 - Mantenimiento predictivo: modelos de confiabilidad (curvas de Weibull) aplicados a datos reales
+- Liderazgo técnico y funcional: arquitectura, decisiones de diseño y acompañamiento del equipo
 - Integraciones de APIs externas, autenticación y migraciones de sistemas
 - Cobertura de pruebas y automatización de calidad en el pipeline
 - LLMs locales y su integración en aplicaciones propias
