@@ -12,9 +12,13 @@
 
 ---
 
-**Fullstack Developer** con base sólida en **Ruby on Rails**, hoy **líder técnico y funcional** de un sistema de fotodetección de tránsito: defino la arquitectura, tomo las decisiones técnicas y traduzco los requerimientos del negocio en funcionalidad que se puede construir.
+**Fullstack Developer** con base sólida en **Ruby on Rails** y **Angular**, hoy **líder técnico y funcional** de un sistema de fotodetección de tránsito en producción.
 
-Trabajo de punta a punta — API, integraciones con entidades y proveedores externos, procesamiento en segundo plano y frontend en **Angular** — con pruebas automatizadas y CI en todos mis proyectos.
+Como **líder técnico** defino la arquitectura, reviso el código y sostengo las decisiones de diseño. Como **líder funcional** levanto el requerimiento con el negocio, lo aterrizo en historias implementables y acompaño la entrega hasta producción.
+
+En el día a día trabajo de punta a punta: APIs en Rails, integraciones con entidades de tránsito y con equipos de captura de distintos fabricantes, máquinas de estado para el ciclo de vida de la evidencia, procesamiento asíncrono con Sidekiq, generación de documentos y exportes, y el frontend en Angular. Todo con pruebas automatizadas y CI.
+
+Fuera del trabajo mantengo proyectos propios donde exploro modelado de datos, confiabilidad aplicada al mantenimiento predictivo y LLMs corriendo en local.
 
 ---
 
