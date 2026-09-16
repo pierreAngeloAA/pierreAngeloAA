@@ -41,17 +41,6 @@ Backend Developer con experiencia construyendo y manteniendo aplicaciones web co
 
 ---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | De qué va | Stack |
-|---|---|---|
-| [**construcivil**](https://github.com/pierreAngeloAA/construcivil) | Catálogo público de obras + panel de administración para una constructora. Desplegado. | Rails 8 · Devise + JWT · React 19 · Render · Cloudflare Workers |
-| [**symplifica-dashboard**](https://github.com/pierreAngeloAA/symplifica-dashboard) | Dashboard de empleados y beneficios con geocoding vía OpenStreetMap. 48 tests y CI. | Rails 8.1 · Vue 3 + Pinia · Tailwind · Docker |
-| [**clash-dashboard**](https://github.com/pierreAngeloAA/clash-dashboard) | Dashboard de progreso de cuentas con API propia, importador de datos y 215 specs. | Rails 8 · React + Vite · PostgreSQL · Docker Compose |
-| [**prueba-tecnica-rails**](https://github.com/pierreAngeloAA/prueba-tecnica-rails) | Resolución de configuración por precedencia, planificador de corte y reserva de inventario en PL/pgSQL. | Rails 7.2 · Ruby puro · PostgreSQL |
-
----
-
 ## 🎯 Enfoque actual
 
 - Modelado de dominio en Rails (STI, agregados) y consultas eficientes en PostgreSQL
