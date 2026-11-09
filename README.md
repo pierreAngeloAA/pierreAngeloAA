@@ -2,23 +2,33 @@
 
 # 👋🏻 Hi, I'm Pierre Angelo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Fullstack+Developer+%F0%9F%9A%80;L%C3%ADder+T%C3%A9cnico+y+Funcional+%7C+Sistema+de+Fotodetecci%C3%B3n+%F0%9F%9B%A0%EF%B8%8F;Ruby+on+Rails+%7C+PostgreSQL+%7C+Sidekiq+%E2%9A%99%EF%B8%8F;Angular+%7C+React+%7C+Vue+%7C+TypeScript+%F0%9F%92%BB;Testing+%26+CI%2FCD+%7C+RSpec+%7C+Vitest+%7C+GitHub+Actions+%E2%9C%85;Docker+%7C+AWS+%7C+Render+%7C+Always+Building+%F0%9F%93%A6)](https://github.com/pierreAngeloAA)
+**Fullstack Developer 🚀 · Líder Técnico y Funcional | Sistema de Fotodetección 🛠️**
+
+Ruby on Rails · Java 21 · Spring Boot · PostgreSQL · Sidekiq ⚙️<br>
+Angular · Microfrontends · React · Vue · TypeScript 💻<br>
+RSpec · JUnit · Vitest · GitHub Actions ✅<br>
+Docker · AWS · Render 📦<br>
+IA · MCP · Agentes · Claude Code 🤖
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pierreAngeloAA&color=00FF41&style=flat-square&label=Profile+Views)](https://github.com/pierreAngeloAA)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/pierreAngeloAA?label=Followers&style=flat-square&color=00FF41&labelColor=0D1117)](https://github.com/pierreAngeloAA?tab=followers)
+&nbsp;
+[![Portafolio](https://img.shields.io/badge/Portafolio-pierre--algarin.vercel.app-00FF41?style=flat-square&labelColor=0D1117)](https://pierre-algarin.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre_Algar%C3%ADn-00FF41?style=flat-square&labelColor=0D1117&logo=linkedin)](https://www.linkedin.com/in/pierre-angelo-a-3937121aa)
 
 </div>
 
 ---
 
-**Fullstack Developer** con base sólida en **Ruby on Rails** y **Angular**, hoy **líder técnico y funcional** de un sistema de fotodetección de tránsito en producción.
+Soy **ingeniero mecánico** y llevo cuatro años como **desarrollador full-stack**. Llegué al software desde la ingeniería, y de ahí viene mi forma de trabajar: entender el problema completo antes de escribir código y medir las decisiones por su impacto real.
 
-Como **líder técnico** defino la arquitectura, reviso el código y sostengo las decisiones de diseño. Como **líder funcional** levanto el requerimiento con el negocio, lo aterrizo en historias implementables y acompaño la entrega hasta producción.
+Trabajo con **Ruby on Rails** y **Java / Spring Boot** en el backend, y con **Angular** y **React** en el frontend, sobre **PostgreSQL** y desplegando en **AWS**. Me muevo cómodo en las integraciones con sistemas externos, la arquitectura de aplicaciones que crecen, el rendimiento y la calidad automatizada.
 
-En el día a día trabajo de punta a punta: APIs en Rails, integraciones con entidades de tránsito y con equipos de captura de distintos fabricantes, máquinas de estado para el ciclo de vida de la evidencia, procesamiento asíncrono con Sidekiq, generación de documentos y exportes, y el frontend en Angular. Todo con pruebas automatizadas y CI.
+Hoy soy **líder técnico y funcional**: hago de puente entre el negocio y el equipo, convierto requerimientos en diseños implementables, reviso el código y acompaño cada entrega hasta producción.
 
-Fuera del trabajo mantengo proyectos propios donde exploro modelado de datos, confiabilidad aplicada al mantenimiento predictivo y LLMs corriendo en local.
+Fuera del trabajo construyo proyectos propios para aprender: confiabilidad aplicada al mantenimiento predictivo, herramientas para agentes de IA y modelos de lenguaje corriendo en local.
 
 ---
 
@@ -26,26 +36,30 @@ Fuera del trabajo mantengo proyectos propios donde exploro modelado de datos, co
 
 | | |
 |---|---|
-| **Backend** | Ruby, Ruby on Rails (API-only y full stack), Service Objects, Devise + JWT, Sorcery |
-| **Procesamiento** | Sidekiq + Redis (jobs en segundo plano), máquinas de estado con AASM, exportes y generación de PDFs |
-| **Frontend** | Angular 20 + Angular Material, React 19, Vue 3 + Pinia, Vite, TypeScript, RxJS |
+| **Backend** | Ruby, Ruby on Rails (API-only y full stack), Java 21, Spring Boot (Security, Data JPA), NestJS, APIs REST y SOAP, OpenAPI, Service Objects, Devise + JWT, Sorcery |
+| **Procesamiento** | Sidekiq + Redis (jobs en segundo plano), jobs programados en Spring, máquinas de estado con AASM, exportes y generación de PDFs |
+| **Arquitectura** | Monolito modular con bounded contexts y capas tipo hexagonal (api, application, domain, infrastructure), microfrontends con Angular Elements (Web Components), servicios independientes (PDF en NestJS), migración de sistemas legados con Strangler Fig, patrón outbox y reintentos idempotentes, capa anticorrupción |
+| **Frontend** | Angular 20 + Angular Material, Angular Elements (microfrontends), React 19, Vue 3 + Pinia, Vite, TypeScript, RxJS |
 | **Estilos** | Tailwind CSS, Bootstrap, MaterializeCSS |
-| **Bases de datos** | PostgreSQL (PL/pgSQL, índices, migraciones), MySQL |
-| **Testing** | RSpec, FactoryBot, SimpleCov, WebMock/VCR, Vitest, Jasmine + Karma |
-| **Calidad** | RuboCop, ESLint, Brakeman, bundler-audit |
-| **DevOps** | Docker y Docker Compose, GitHub Actions, Render, Cloudflare Workers, AWS (S3, CloudFront) |
-| **Herramientas** | Git, GitHub (ramas protegidas, PRs), Jira, Slack, Postman |
-| **IA** | IA aplicada al desarrollo · LLMs locales con Ollama + Open WebUI (API compatible con OpenAI) |
+| **Bases de datos** | PostgreSQL (PL/pgSQL, índices, migraciones), Flyway, Redis, MySQL |
+| **Testing** | RSpec, FactoryBot, SimpleCov, WebMock/VCR, JUnit, Mockito, Jest, Vitest, Playwright, Jasmine + Karma |
+| **Calidad** | RuboCop, ESLint, Brakeman, bundler-audit, JaCoCo |
+| **Observabilidad** | Spring Boot Actuator, Micrometer + Prometheus, AWS CloudWatch |
+| **DevOps** | Docker y Docker Compose, GitHub Actions, Bitbucket Pipelines, Render, Cloudflare Workers, AWS (ECS Fargate, ECR, RDS, S3, CloudFront, SNS, CloudWatch) |
+| **Herramientas** | Git, GitHub y Bitbucket (ramas protegidas, PRs), Maven, Jira, Slack, Postman |
+| **IA y agentes** | Desarrollo asistido por IA con Claude Code (agentes, subagentes, skills y hooks), construcción de servidores MCP (Model Context Protocol) publicados en npm, integración de agentes con herramientas externas vía conectores MCP (Google Workspace, Jira, Slack), LLMs locales con Ollama + Open WebUI (API compatible con OpenAI) |
 
 ---
 
-## 🧪 Cómo trabajo
+## 🚀 Proyectos destacados
 
-- **CI obligatorio antes de mergear:** pipelines multi-job en GitHub Actions (tests contra PostgreSQL real, linters, análisis estático y auditoría de dependencias).
-- **Flujo de ramas:** `staging` → PR → `main`, con `main` protegida y siempre en estado presentable.
-- **Seguridad de base:** Brakeman y `bundle-audit` en cada corrida; secretos fuera del repo.
-- **Documentación real:** cada repo con README que explica decisiones de arquitectura, no solo cómo instalarlo.
-- **Puente entre negocio y código:** levanto el requerimiento funcional, lo aterrizo en un diseño técnico y acompaño la implementación hasta producción.
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**verified-recipes**](https://github.com/pierreAngeloAA/verified-recipes) | Paquete npm con un servidor MCP que da a los agentes de IA recetas de código verificadas cada semana por CI | Node.js, MCP, Zod, GitHub Actions |
+| [**TallernApp**](https://tallernapp.com) | Gestión de talleres y clientes: citas, cotizaciones, RUNT y mantenimiento predictivo | Rails 8.1 API, React 19, PostgreSQL |
+| [**Clash Dashboard**](https://github.com/pierreAngeloAA/clash-dashboard) | Progreso de cuentas de Clash of Clans desde Google Sheets y la API oficial vía proxy | React, Vite, Tailwind CSS |
+| [**Prueba técnica Rails**](https://github.com/pierreAngeloAA/prueba-tecnica-rails) | Configuración efectiva versionada, planificador de corte y reserva de inventario en PL/pgSQL | Rails 7.2, PostgreSQL, RSpec |
+| [**Portafolio**](https://pierre-algarin.vercel.app/) | Mi sitio personal con experiencia, proyectos y certificados | React 19, Vite, TypeScript, Vercel |
 
 ---
 
@@ -55,8 +69,10 @@ Fuera del trabajo mantengo proyectos propios donde exploro modelado de datos, co
 - Mantenimiento predictivo: modelos de confiabilidad (curvas de Weibull) aplicados a datos reales
 - Liderazgo técnico y funcional: arquitectura, decisiones de diseño y acompañamiento del equipo
 - Integraciones de APIs externas, autenticación y migraciones de sistemas
+- Migración de sistemas legados con Java 21 y Spring Boot: monolito modular, Strangler Fig y patrón outbox
 - Cobertura de pruebas y automatización de calidad en el pipeline
-- LLMs locales y su integración en aplicaciones propias
+- Agentes de IA: servidores MCP, orquestación de agentes y automatización del flujo de desarrollo con Claude Code
+- LLMs locales integrados en aplicaciones propias
 
 ---
 
@@ -68,10 +84,6 @@ Fuera del trabajo mantengo proyectos propios donde exploro modelado de datos, co
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/pacman-contribution-graph.svg" />
   <img alt="Pacman contribution graph" src="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/pacman-contribution-graph.svg" />
-</picture>
-
-<picture>
-  <img alt="Galaga contribution graph" width="1166" src="https://github.com/pierreAngeloAA/pierreAngeloAA/raw/output/galaga.svg" />
 </picture>
 
 </div>
