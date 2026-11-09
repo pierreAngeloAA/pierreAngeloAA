@@ -59,7 +59,6 @@ Fuera del trabajo construyo proyectos propios para aprender: confiabilidad aplic
 | [**TallernApp**](https://tallernapp.com) | Gestión de talleres y clientes: citas, cotizaciones, RUNT y mantenimiento predictivo | Rails 8.1 API, React 19, PostgreSQL |
 | [**Clash Dashboard**](https://github.com/pierreAngeloAA/clash-dashboard) | Progreso de cuentas de Clash of Clans desde Google Sheets y la API oficial vía proxy | React, Vite, Tailwind CSS |
 | [**Prueba técnica Rails**](https://github.com/pierreAngeloAA/prueba-tecnica-rails) | Configuración efectiva versionada, planificador de corte y reserva de inventario en PL/pgSQL | Rails 7.2, PostgreSQL, RSpec |
-| [**Portafolio**](https://pierre-algarin.vercel.app/) | Mi sitio personal con experiencia, proyectos y certificados | React 19, Vite, TypeScript, Vercel |
 
 ---
 
